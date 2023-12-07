@@ -9,7 +9,7 @@ An unofficial implementation of [Splice (CVPR 2022 Oral)](https://splice-vit.git
 This code is developed with python version 3.8, PyTorch 1.13.0, CUDA 11.6 and torchvision 0.14.0.
 
 In addition to DINO, we also  investigated the performance of weakly-supervised ViT (CLIP) through feature inversion.
-Please download the pre-trained DINO-ViT & CLIP-ViT(optional) from [here]() and place them in `./checkpoints`.
+Please download the pre-trained DINO-ViT & CLIP-ViT(optional) from [here](https://drive.google.com/drive/folders/1ZIDaXsq1idD9AoFORIyvZ6fS6zRNPPS1?usp=sharing) and place them in `./checkpoints`.
 
 ## Feature Inversion
 There are two methods for feature inversion:
